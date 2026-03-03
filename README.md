@@ -14,4 +14,4 @@ I love building websites that are clean, fast, and interactive.
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub Stats
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radial)
+![Afroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radial)
